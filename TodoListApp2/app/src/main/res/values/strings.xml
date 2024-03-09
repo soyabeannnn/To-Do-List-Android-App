@@ -1,0 +1,36 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">Donez</string>
+
+    <!--Main Activity-->
+    <string name="app_title">To-do</string>
+    <string name="btn_desc">Add task button</string>
+    <string name="btn_text">Add</string>
+
+    <!--Add Task Activity-->
+    <string name="name">Task Name: </string>
+    <string name="desc">Task Description [optional]: </string>
+    <string name="urgency">Task urgency: </string>
+    <string name="status">Status: </string>
+
+    <!--Add Task Radio Group Options-->
+    <string name="addTaskPageTitle">Add Task</string>
+    <string name="kiv">KIV</string>
+    <string name="general">General</string>
+    <string name="important">Important</string>
+    <string name="urgent">Urgent</string>
+
+    <string name="pending">Pending</string>
+    <string name="progress">In Progress</string>
+    <string name="complete">Completed</string>
+
+    <!--Edit Text Description-->
+    <string name="eName">Edit the task name</string>
+    <string name="eDesc">Edit the text description</string>
+
+    <string name="example1">E.g Assignment 1</string>
+    <string name="example2">E.g Due by 31st December</string>
+
+    <!--Add Button-->
+    <string name="btn_add">Add</string>
+</resources>

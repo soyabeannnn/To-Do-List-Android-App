@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default colour settings-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--App Background-->
+    <color name="backg">#00B0FF</color>
+    <color name="lightblue">#C6EBFF</color>
+    <color name="darkblue">#031A6B</color>
+
+    <!--Task sets-->
+    <color name="kiv">#A9E890</color>
+    <color name="important">#FFB545</color>
+    <color name="urgent">#FF6464</color>
+</resources>
